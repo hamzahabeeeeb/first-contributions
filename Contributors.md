@@ -14,6 +14,7 @@ JialingYU
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
 - [Tom John](https://github.com/Jayjokeer)
 - [Ferhat Cekim](https://github.com/ferferx)
+- [Hamza Habeeb](https://github.com/hamzahabeeb)
 - [Ansil M B](https://github.com/ansilmbabl)
 - [Archit Shekhawat](https://github.com/11heathcliff11)
 - [happy-harsh](https://github.com/happy-harsh)
